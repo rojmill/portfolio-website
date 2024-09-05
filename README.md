@@ -32,7 +32,7 @@ This is my personal portfolio website where I display my projects, skills, and e
 
 ## Getting Started
 
-To view the portfolio, simply visit the [live site](https://your-username.github.io/portfolio-website/).
+To view the portfolio, simply visit the [live site](https://rojmill.github.io/portfolio-website/).
 
 If you'd like to run it locally or contribute, follow these steps:
 
