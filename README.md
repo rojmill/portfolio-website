@@ -38,4 +38,4 @@ If you'd like to run it locally or contribute, follow these steps:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/rojmill/portfolio-website.git
